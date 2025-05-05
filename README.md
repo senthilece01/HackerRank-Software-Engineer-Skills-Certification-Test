@@ -2,7 +2,7 @@
 
 ![problems-solved](https://img.shields.io/badge/problem%20solved-4-1f72ff.svg)
 
-This repository contains the solutions to the HackerRank Software Engineer Skills Certification Test. I have taken HackerRank Software Engineer Certificate [test](https://www.hackerrank.com/certificates/b71d725ec63a) on __16th April 2025__. <br>
+This repository contains the solutions to the HackerRank Software Engineer Skills Certification Test. I have taken HackerRank Software Engineer Certificate [test](https://www.hackerrank.com/certificates/b71d725ec63a) on __02nd May 2025__. <br>
 
 You can view the certificate here:
 
